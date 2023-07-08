@@ -1,6 +1,6 @@
 # Snake Game
 
-##A classic Snake game implemented in Python using the Pygame library.
+## A classic Snake game implemented in Python using the Pygame library.
 
 ## Features
 
